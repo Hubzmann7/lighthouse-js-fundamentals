@@ -29,9 +29,23 @@ if (temperature < 0) {
 console.log("Now you're ready to go outside!");
 */
 
+/*
 const isCitizen = true;
 const age = 26;
 
 if (isCitizen && age > 18) {
   console.log("You are eligible to vote.");
 }
+*/
+/*
+if (temperature < -40 || temperature > 40) {
+  console.log("Maybe going outside isn' such a great idea...");
+}
+*/
+/*
+if (!raining) {
+  console.log("Leave your umbrella at home!");
+}
+// the ! operator reverses the value of the variable; if raining is true, !raining is false. If raining is false, !raining is true.
+*/
+
